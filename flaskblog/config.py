@@ -1,6 +1,6 @@
 import os
 
-# 12. Config blueprint -> hide token in .bash_profile unsuccessful
+# 11. Config blueprint -> hide token in .bash_profile unsuccessful
 
 
 class Config:
