@@ -1,1 +1,1 @@
-web: gunicorn Flask_Blog.wsgi
+web: gunicorn run:app
